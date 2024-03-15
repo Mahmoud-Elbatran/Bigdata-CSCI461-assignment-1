@@ -1,0 +1,514 @@
+movie_title,release_date,mpaa_rating,total_gross,inflation_adjusted_gross,genre_Action,genre_Adventure,genre_Black Comedy,genre_Comedy,genre_Concert/Performance,genre_Documentary,genre_Drama,genre_Horror,genre_Musical,genre_Romantic Comedy,genre_Thriller/Suspense,genre_Western,total_gross_category,inflation_adjusted_gross_category
+Snow White and the Seven Dwarfs,1937,G,184925485,5228953251,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+Pinocchio,1940,G,84300000,2188229052,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Fantasia,1940,G,83320000,2187090808,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+Song of the South,1946,G,65000000,1078510579,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Cinderella,1950,G,85000000,920608730,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Lady and the Tramp,1955,G,93600000,1236035515,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+101 Dalmatians,1961,G,153000000,1362870985,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Babes in Toyland,1961,G,10218316,124841160,False,False,False,False,False,False,False,False,True,False,False,False,Low,High
+Bon Voyage!,1962,Not Rated,9230769,109581646,False,False,False,True,False,False,False,False,False,False,False,False,Low,High
+The Jungle Book,1967,Not Rated,141843000,789612346,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+The Aristocats,1970,G,55675257,255161499,False,False,False,False,False,False,False,False,True,False,False,False,Medium,High
+Splash,1984,PG,62599495,157057661,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+Down and Out in Beverly Hills,1986,R,62134225,141183693,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+Ruthless People,1986,R,71624879,162748712,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Color of Money,1986,R,52293000,117957323,False,False,False,False,False,False,True,False,False,False,False,False,Medium,High
+Outrageous Fortune,1987,R,52864741,113976921,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+Stakeout,1987,R,65673233,141592160,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+3 Men and a Baby,1987,PG,167780960,353334607,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Good Morning Vietnam,1987,R,123922370,254414837,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Return to Snowy River,1988,PG,13687027,28073384,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Big Business,1988,PG,40150487,82352451,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Who Framed Roger Rabbit?,1988,PG,154112492,316250084,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Cocktail,1988,R,78222753,160442289,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Ernest Saves Christmas,1988,PG,28202109,57845202,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Oliver & Company,1988,G,49576671,102254492,False,True,False,False,False,False,False,False,False,False,False,False,Medium,High
+Beaches,1988,PG-13,57041866,120381757,False,False,False,False,False,False,True,False,False,False,False,False,Medium,High
+Three Fugitives,1989,PG-13,40590000,85757817,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+New York Stories,1989,PG,10763469,22740861,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Dead Poets Society,1989,PG,95860116,202531517,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+"Honey, I Shrunk the Kids",1989,PG,130724172,276191669,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Turner & Hooch,1989,PG,71079915,150176361,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+An Innocent Man,1989,R,19397847,40983414,False,False,False,False,False,False,True,False,False,False,False,False,Low,Medium
+Gross Anatomy,1989,PG-13,11346186,23972012,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Little Mermaid,1989,G,111543479,223726012,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Blaze,1989,R,19049727,39884640,False,False,False,False,False,False,True,False,False,False,False,False,Low,Medium
+Stella,1990,PG-13,20062347,40077147,False,False,False,False,False,False,True,False,False,False,False,False,Low,Medium
+Pretty Woman,1990,R,178406268,356389765,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+Ernest Goes to Jail,1990,PG,25029569,49999822,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Spaced Invaders,1990,PG,15000000,29964452,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Fire Birds,1990,PG-13,14760451,29485923,True,False,False,False,False,False,False,False,False,False,False,False,Low,Low
+Dick Tracy,1990,PG,103738726,207231621,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Betsy's Wedding,1990,R,19740070,39433357,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Arachnophobia,1990,PG-13,53208180,106290270,False,False,False,False,False,False,False,False,False,False,True,False,Medium,High
+DuckTales: The Movie - Treasure of th…,1990,G,18075331,36107823,False,True,False,False,False,False,False,False,False,False,False,False,Low,Medium
+Taking Care of Business,1990,R,20005435,39963460,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Mr. Destiny,1990,PG-13,15379253,30722056,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Rescuers Down Under,1990,G,27931461,55796728,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+3 Men and a Little Lady,1990,PG,71609321,143108869,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Green Card,1990,PG-13,29804169,59679131,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+White Fang,1991,PG,34729091,69540672,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Haakon Haakonsen,1991,PG,15024232,30084149,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+The Marrying Man,1991,R,12454768,24939118,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+Oscar,1991,PG,23562716,47181395,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+One Good Cop,1991,R,11276846,22580472,True,False,False,False,False,False,False,False,False,False,False,False,Low,Low
+What About Bob?,1991,PG,63710000,127571325,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+The Rocketeer,1991,PG,46573027,93256673,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Doctor,1991,PG-13,37497480,75084021,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Paradise,1991,PG-13,18634643,37313540,False,False,False,False,False,False,True,False,False,False,False,False,Low,Medium
+Deceived,1991,PG-13,28738096,57544453,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Medium
+Ernest Scared Stupid,1991,PG,14143280,28320147,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Billy Bathgate,1991,R,15565363,31167691,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Beauty and the Beast,1991,G,218951625,363017667,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+Father of the Bride,1991,PG,89325780,179821881,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Hand That Rocks the Cradle,1992,R,88036683,178831137,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+Medicine Man,1992,PG-13,44948240,91304495,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Blame it on the Bellboy,1992,PG-13,2891055,5872667,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Noises Off...,1992,PG-13,2280148,4631720,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Straight Talk,1992,PG,21202099,43068356,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Encino Man,1992,PG,40057130,81369058,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Sister Act,1992,PG,139605150,283583472,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Honey I Blew Up the Kid,1992,PG,58662452,119162518,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+A Stranger Among Us,1992,PG-13,12282994,24950752,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+3 Ninjas,1992,PG,29028000,58965304,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Captain Ron,1992,PG-13,22518097,45741576,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Sarafina!,1992,PG-13,7306242,14841352,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Innocent Blood,1992,R,4877567,9907922,False,False,False,False,False,False,False,True,False,False,False,False,Low,Low
+The Mighty Ducks,1992,PG,50752337,103120810,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+1492: Conquest of Paradise,1992,PG-13,7099531,14421454,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Consenting Adults,1992,R,21591728,43859823,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Aladdin,1992,G,217350219,441969178,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Distinguished Gentleman,1992,R,46434570,94349900,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Muppet Christmas Carol,1992,G,27281507,55417615,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Alive,1993,R,36299670,73914543,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Aspen Extreme,1993,PG-13,7843388,15970955,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+Homeward Bound: The Incredible Journey,1993,G,41833324,85182343,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Cemetery Club,1993,PG-13,5583621,11369541,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Swing Kids,1993,PG-13,5632086,11468231,False,False,False,False,False,False,False,False,True,False,False,False,Low,Low
+A Far Off Place,1993,PG,12890752,26248558,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Born Yesterday,1993,PG,17760754,36165012,False,False,False,False,False,False,False,False,False,True,False,False,Low,Medium
+The Adventures of Huck Finn,1993,PG,24103594,49080505,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Indian Summer,1993,R,14717851,29968953,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Super Mario Bros.,1993,PG,20844907,42445058,True,False,False,False,False,False,False,False,False,False,False,False,Low,Medium
+Guilty as Sin,1993,R,22622537,46064723,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Medium
+Life With Mikey,1993,PG,12349549,25146538,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+What's Love Got to Do With It,1993,R,39100956,79618610,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Son in Law,1993,PG-13,25989889,52921433,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Hocus Pocus,1993,PG,39360491,80147079,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Another Stakeout,1993,PG-13,20107504,40943541,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+The Joy Luck Club,1993,R,32790064,66768171,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Money for Nothing,1993,R,1044824,2127496,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Program,1993,R,23042200,46919256,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Cool Runnings,1993,PG,68856263,140392731,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Nightmare Before Christmas,1993,PG,50408318,100026637,False,False,False,False,False,False,False,False,True,False,False,False,Medium,High
+The Three Musketeers,1993,PG,53661805,109310377,False,True,False,False,False,False,False,False,False,False,False,False,Medium,High
+Sister Act 2 Back in the Habit,1993,PG,57319029,116965668,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+Tombstone,1993,R,56505065,115781734,False,False,False,False,False,False,False,False,False,False,False,True,Medium,High
+The Air Up There,1994,PG,20782439,42940186,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Cabin Boy,1994,PG-13,3469493,7168577,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Iron Will,1994,PG,20623071,42610902,False,False,False,False,False,False,True,False,False,False,False,False,Low,Medium
+Blank Check,1994,PG,30573770,63170804,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Angie,1994,R,9252349,19116981,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Ref,1994,R,11325885,23401275,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+D2: The Mighty Ducks,1994,PG,45604206,94226333,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+White Fang 2: Myth of the White Wolf,1994,PG,8752399,18083994,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+The Inkwell,1994,R,8864699,18316030,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+When a Man Loves a Woman,1994,R,50021959,103354194,False,False,False,False,False,False,True,False,False,False,False,False,Medium,High
+3 Ninjas Kick Back,1994,PG,11744960,24267154,True,False,False,False,False,False,False,False,False,False,False,False,Low,Low
+Renaissance Man,1994,PG-13,24172899,49945474,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Lion King,1994,G,422780140,761640898,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+I Love Trouble,1994,PG,30806194,63651027,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Angels in the Outfield,1994,PG,50236831,103798152,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+In the Army Now,1994,PG,28881266,59673787,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Color of Night,1994,R,19750470,40804816,False,False,False,False,False,False,False,False,False,False,True,False,Low,Medium
+Camp Nowhere,1994,PG,10442641,21576332,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+A Simple Twist of Fate,1994,PG-13,3404935,7035189,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Quiz Show,1994,PG-13,24787282,50840394,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Terminal Velocity,1994,PG-13,16478900,34048315,True,False,False,False,False,False,False,False,False,False,False,False,Low,Low
+Ed Wood,1994,R,5828466,12042634,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Puppet Masters,1994,R,8579626,17727017,False,False,False,False,False,False,False,True,False,False,False,False,Low,Low
+Squanto: A Warrior's Tale,1994,PG,3319344,6858345,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Santa Clause,1994,PG,144833357,298369717,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+A Low Down Dirty Shame,1994,R,29317886,60321919,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Jungle Book,1994,PG,44342956,88930321,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Houseguest,1995,PG,26325256,51016522,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Bad Company,1995,R,3523909,6829092,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+Miami Rhapsody,1995,PG-13,5086578,9857435,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+The Jerky Boys,1995,R,7555256,14641561,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Heavy Weights,1995,PG,17671310,34245779,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Man of the House,1995,PG,40029009,77573459,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Roommates,1995,PG,12076989,23404369,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Tall Tale,1995,PG,8247627,15983331,False,False,False,False,False,False,False,False,False,False,False,True,Low,Low
+A Pyromaniac's Love Story,1995,PG,468240,907414,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+Jefferson in Paris,1995,PG-13,2461628,4770461,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Funny Bones,1995,R,529135,1025425,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+A Goofy Movie,1995,G,35336439,68479579,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+While You Were Sleeping,1995,PG,81057016,157082900,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+Crimson Tide,1995,R,91387195,177102077,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Mad Love,1995,PG-13,15446532,29934306,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Pocahontas,1995,G,141579773,274370957,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Judge Dredd,1995,R,34687912,67222776,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Operation Dumbo Drop,1995,PG,24670346,47809421,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Dangerous Minds,1995,R,84919401,164552293,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+A Kid in King Arthur's Court,1995,PG,13406717,25981285,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+The Tie That Binds,1995,R,5762795,11167895,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+Unstrung Heroes,1995,PG,7929000,15365850,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Big Green,1995,PG,17736619,34372339,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Dead Presidents,1995,R,24120194,46741467,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+The Scarlet Letter,1995,R,10359006,20075033,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Feast of July,1995,R,293274,568342,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Powder,1995,PG-13,30833914,59727216,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Toy Story,1995,G,191796233,370409631,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Father of the Bride Part II,1995,PG,76578911,147658438,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Nixon,1995,R,13668249,26302005,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Tom and Huck,1995,PG,23837227,45911517,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Mr. Holland's Opus,1995,PG,82582604,157508868,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+White Squall,1996,PG-13,10229300,19509726,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Muppet Treasure Island,1996,G,34327391,65470567,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Mr. Wrong,1996,PG-13,12805071,24422334,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+Before and After,1996,PG-13,8642118,16482589,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Up Close & Personal,1996,PG-13,51045801,97356578,False,False,False,False,False,False,True,False,False,False,False,False,Medium,High
+Homeward Bound II: Lost in San Franc…,1996,G,32709423,62384706,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Two Much,1996,PG-13,1078555,2057055,False,False,False,False,False,False,False,False,False,True,False,False,Low,Low
+Un indien dans la ville,1996,PG,1029731,1963937,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+James and the Giant Peach,1996,PG,28921264,55159783,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Celtic Pride,1996,PG-13,9240378,17623615,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Last Dance,1996,R,5857534,11171714,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Boys,1996,PG-13,21930418,41826566,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Spy Hard,1996,PG-13,26936265,51373912,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Eddie,1996,PG-13,31369401,59828966,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Rock,1996,R,134069511,255702705,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+The Hunchback of Notre Dame,1996,G,100138851,190988799,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Phenomenon,1996,PG,104636382,199559799,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Kazaam,1996,PG,18880508,36009655,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Jack,1996,PG-13,58617334,111792852,False,False,False,False,False,False,True,False,False,False,False,False,Medium,High
+First Kid,1996,PG,26465920,50465108,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Rich Man's Wife,1996,R,8538318,16284619,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+D3: The Mighty Ducks,1996,PG,22936273,43713554,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Associate,1996,PG-13,12772657,24333094,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Ransom,1996,R,136492681,259807820,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+101 Dalmatians,1996,G,136189294,258728898,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Preacher's Wife,1996,PG,48102795,91076877,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Evita,1996,PG,50047179,92077628,False,False,False,False,False,False,False,False,True,False,False,False,Medium,Medium
+Metro,1997,R,32017895,58804106,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Prefontaine,1997,PG-13,590817,1085093,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Shadow Conspiracy,1997,R,2154540,3957025,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+That Darn Cat,1997,PG,18301828,33613158,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Jungle 2 Jungle,1997,PG,59925026,110058379,False,False,False,True,False,False,False,False,False,False,False,False,Medium,High
+The Sixth Man,1997,PG-13,14765099,27117599,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Grosse Pointe Blank,1997,R,28084357,51579764,False,False,True,False,False,False,False,False,False,False,False,False,Medium,Medium
+Romy and Michele's High School Reunion,1997,R,29235353,53693680,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Gone Fishin',1997,PG,19745922,36265379,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Con Air,1997,R,101117573,185712664,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Hercules,1997,G,99112101,182029412,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+George Of The Jungle,1997,PG,105263257,193326632,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Nothing To Lose,1997,R,44480039,81692095,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Air Bud,1997,PG,24646936,45266588,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+G.I. Jane,1997,R,48169156,88467531,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+A Thousand Acres,1997,R,7928412,14561324,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Washington Square,1997,PG,1775644,3257546,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Rocket Man,1997,PG,15448043,28371890,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Playing God,1997,R,4166918,7652965,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+Flubber,1997,PG,92993801,170406423,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+An American Werewolf in Paris,1997,R,26570463,48546161,False,False,False,False,False,False,False,True,False,False,False,False,Medium,Medium
+Mr. Magoo,1997,PG,21437192,39145784,False,False,False,True,False,False,False,False,False,False,False,False,Low,Medium
+Kundun,1997,PG-13,5686694,10236836,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Deep Rising,1998,R,11203026,20136775,True,False,False,False,False,False,False,False,False,False,False,False,Low,Low
+Krippendorf's Tribe,1998,PG-13,7571115,13608633,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+An Alan Smithee Film: Burn Hollywood …,1998,R,45779,82277,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Meet the Deedles,1998,PG,4356126,7829877,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+He Got Game,1998,R,21567853,38766948,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+The Horse Whisperer,1998,PG-13,75383563,135497531,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+"Six Days, Seven Nights",1998,PG-13,74339294,133620516,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+Mulan,1998,G,120620254,216807832,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Armageddon,1998,PG-13,201578182,362324957,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Jane Austen's Mafia,1998,PG-13,19843795,35668055,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Parent Trap,1998,PG,66308518,119185667,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Firelight,1998,R,784419,1409943,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Simon Birch,1998,PG,18253415,32809442,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Holy Man,1998,PG,12069719,21694605,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Beloved,1998,R,22852487,41062682,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+The Waterboy,1998,PG-13,161491646,288691833,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+I'll Be Home For Christmas,1998,PG,12214338,21941840,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+A Bug's Life,1998,G,162798565,288981698,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Enemy of the State,1998,R,111549836,198472008,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Rushmore,1998,R,17105219,28392518,False,False,True,False,False,False,False,False,False,False,False,False,Low,Low
+A Civil Action,1998,PG-13,56709981,94139530,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Mighty Joe Young,1998,PG,50632037,87906042,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+My Favorite Martian,1999,PG,36850101,61150849,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Other Sister,1999,PG-13,27807627,46145331,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Doug's 1st Movie,1999,G,19421271,32228598,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Ten Things I Hate About You,1999,PG-13,38177966,63354375,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Instinct,1999,R,34105207,56595842,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Tarzan,1999,G,171091819,283900254,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Summer of Sam,1999,R,19288130,32007656,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Inspector Gadget,1999,PG,97387965,161610341,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Sixth Sense,1999,PG-13,293506292,485424724,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+The 13th Warrior,1999,R,32698899,54262148,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Breakfast of Champions,1999,R,178287,295851,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Mumford,1999,R,4559569,7566363,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+"Mystery, Alaska",1999,R,8891623,14755189,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Straight Story,1999,G,6197866,10111144,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Insider,1999,R,28965197,47794214,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Toy Story 2,1999,G,245852179,404450426,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Cradle Will Rock,1999,R,2899970,4609153,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Deuce Bigalow: Male Gigolo,1999,R,65535067,106921374,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Bicentennial Man,1999,PG,58220776,94838225,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Play it to the Bone,1999,R,8427204,13180524,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Fantasia 2000 (IMAX),2000,G,60507228,94852354,False,False,False,False,False,False,False,False,True,False,False,False,Medium,Medium
+Gun Shy,2000,R,1638202,2562155,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Tigger Movie,2000,G,45542421,71228678,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Mission to Mars,2000,PG,60874615,95208344,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+High Fidelity,2000,R,27277055,42661516,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Keeping the Faith,2000,PG-13,37036404,57925202,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Dinosaur,2000,PG,137748063,215438985,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Shanghai Noon,2000,PG-13,56932305,89042541,False,False,False,False,False,False,False,False,False,False,False,True,Medium,Medium
+Gone in 60 Seconds,2000,PG-13,101643008,158970411,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Fantasia 2000 (Theatrical Release),2000,G,9103630,14238144,False,False,False,False,False,False,False,False,True,False,False,False,Low,Low
+The Kid,2000,PG,69688384,108993148,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Coyote Ugly,2000,PG-13,60786269,95070168,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+The Crew,2000,PG-13,13019253,20362201,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Duets,2000,R,4734235,7404372,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Remember the Titans,2000,PG,115654751,180742479,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Unbreakable,2000,PG-13,94999143,148208901,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+102 Dalmatians,2000,G,66941559,104055039,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Emperor's New Groove,2000,G,89296573,136789252,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+"O Brother, Where Art Thou?",2000,PG-13,45506619,67922002,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Double Take,2001,PG-13,29823162,44418589,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Recess: School's Out,2001,G,36696761,54656124,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Just Visiting,2001,PG-13,4777007,7114869,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Pearl Harbor,2001,PG-13,198539855,295705112,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Atlantis: The Lost Empire,2001,PG,84052762,125188122,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+crazy/beautiful,2001,PG-13,16929123,25214223,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Princess Diaries,2001,G,108244774,161218928,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Bubble Boy,2001,PG-13,5002310,7450434,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Max Keeble's Big Move,2001,PG,17292381,25749730,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Corky Romano,2001,PG-13,23978402,35705805,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+"Monsters, Inc.",2001,G,289423425,416073179,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Out Cold,2001,PG-13,13906394,20700691,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Royal Tenenbaums,2001,R,52353636,76758193,False,False,True,False,False,False,False,False,False,False,False,False,Medium,Medium
+Beauty and the Beast (IMAX),2002,G,25487028,36980311,False,False,False,False,False,False,False,False,True,False,False,False,Medium,Medium
+Snow Dogs,2002,PG,81150692,117745317,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+The Count of Monte Cristo,2002,PG-13,54228104,78682079,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Peter Pan: Return to Neverland,2002,G,48430258,70269715,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Reign of Fire,2002,PG-13,43061982,62480631,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Sorority Boys,2002,R,10198766,14797862,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+The Rookie,2002,G,75600072,109691666,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Big Trouble,2002,PG-13,7262288,10537188,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+ESPN's Ultimate X - The Movie,2002,PG,4197175,6089874,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Bad Company,2002,PG-13,30157016,43756218,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Lilo & Stitch,2002,PG,145771527,211506702,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Country Bears,2002,G,16988996,24650121,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Signs,2002,PG-13,227965690,330754439,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+Sen to Chihiro no Kamikakushi,2002,PG,10049886,14338992,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Sweet Home Alabama,2002,PG-13,127214072,184521151,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Moonlight Mile,2002,PG-13,6830957,9909094,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Tuck Everlasting,2002,PG,19161999,27789959,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Santa Clause 2,2002,G,139225854,201959095,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Treasure Planet,2002,PG,38120554,55189145,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Hot Chick,2002,PG-13,35081550,50624654,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+25th Hour,2002,R,13084595,18325463,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Recruit,2003,PG-13,52784696,73793522,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Medium
+Shanghai Knights,2003,PG-13,60470220,84537962,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Jungle Book 2,2003,G,47901582,66966883,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Bringing Down the House,2003,PG-13,132675402,185481530,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Piglet's Big Movie,2003,G,23103423,32298812,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+Ghosts of the Abyss,2003,G,17093668,23803108,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Holes,2003,PG,67383924,94203395,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+The Lizzie McGuire Movie,2003,PG,42734455,59743191,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Finding Nemo,2003,G,380529370,518148559,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Pirates of the Caribbean: The Curse o…,2003,PG-13,305411224,426967926,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Freaky Friday,2003,PG,110222438,154090360,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Open Range,2003,R,58331254,81547672,False,False,False,False,False,False,False,False,False,False,False,True,Medium,Medium
+Cold Creek Manor,2003,R,21384035,29895090,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+Under the Tuscan Sun,2003,PG-13,43601508,60944053,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Veronica Guerin,2003,R,1569918,2194759,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Brother Bear,2003,G,85336277,119218333,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Haunted Mansion,2003,PG,75817994,105775678,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Calendar Girls,2003,PG-13,31011616,42379650,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Young Black Stallion,2003,G,6751389,9254344,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Teacher's Pet: The Movie,2004,PG,6491969,8812764,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Miracle,2004,PG,64378093,87392478,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+Confessions of a Teenage Drama Queen,2004,PG,29331068,39816568,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Hidalgo,2004,PG-13,67286731,91340921,False,False,False,False,False,False,False,False,False,False,False,True,High,Medium
+The Ladykillers,2004,R,39692139,53881593,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Home on the Range,2004,PG,50026353,67910166,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Alamo,2004,PG-13,22406362,30416359,False,False,False,False,False,False,False,False,False,False,False,True,Medium,Low
+Raising Helen,2004,PG-13,37485528,50886144,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Around the World in 80 Days,2004,PG,24004159,32585356,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Low
+America's Heart and Soul,2004,Not Rated,314000,426246,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+King Arthur,2004,PG-13,51877963,70423706,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Village,2004,PG-13,114197520,155021748,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+The Princess Diaries 2: Royal Engagement,2004,G,95149435,129164207,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+Mr. 3000,2004,PG-13,21800302,29593641,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+The Last Shot,2004,R,463730,629502,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Ladder 49,2004,PG-13,74541707,101161045,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+The Incredibles,2004,PG,261441092,354488708,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+National Treasure,2004,PG,173005002,234069353,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Life Aquatic with Steve Zissou,2004,R,24006726,32198655,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+Aliens of the Deep,2005,G,8968684,11740942,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Pooh's Heffalump Movie,2005,G,18098433,23801835,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+The Pacifier,2005,PG,113006880,148619029,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Ice Princess,2005,G,24381334,32064685,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+A Lot Like Love,2005,PG-13,21835784,28716947,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+The Hitchhiker's Guide to the Galaxy,2005,PG,51019112,67096891,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Hauru no ugoku shiro,2005,PG,4710455,6194870,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Herbie: Fully Loaded,2005,G,66010682,86812798,False,False,False,True,False,False,False,False,False,False,False,False,High,Medium
+Dark Water,2005,PG-13,25473093,33500491,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Low
+Sky High,2005,PG,63939454,84088854,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+Valiant,2005,G,19478106,25616292,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Flightplan,2005,PG-13,89706988,117960425,False,False,False,False,False,False,False,False,False,False,True,False,High,High
+The Greatest Game Ever Played,2005,PG,15331289,20162672,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Shopgirl,2005,R,10284523,13519621,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Chicken Little,2005,G,135386665,177954661,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+"The Chronicles of Narnia: The Lion, t…",2005,PG,291710957,381557539,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Casanova,2005,R,11304403,14574087,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Glory Road,2006,PG,42647449,54888236,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Annapolis,2006,PG-13,17127992,22044113,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Roving Mars,2006,G,10407978,12948025,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Eight Below,2006,PG,81612565,105037235,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Shaggy Dog,2006,PG,61123569,78667428,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Stay Alive,2006,PG-13,23086480,29712825,False,False,False,False,False,False,False,True,False,False,False,False,Medium,Low
+The Wild,2006,G,37384046,48114115,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Stick It,2006,PG-13,26910736,34634731,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+Goal! The Dream Begins,2006,PG,4283255,5512647,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Cars,2006,G,244082982,314140384,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Pirates of the Caribbean: Dead Man’…,2006,PG-13,423315812,544817142,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Step Up,2006,PG-13,65328121,84078780,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+Invincible,2006,PG,57806952,74398864,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+The Guardian,2006,PG-13,55011732,70801353,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Prestige,2006,PG-13,53089891,68289913,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Medium
+Tim Burton's The Nightmare Before Chr…,2006,PG,24732041,30737517,False,False,False,False,False,False,False,False,True,False,False,False,Medium,Low
+The Santa Clause 3: The Escape Clause,2006,G,84500122,108694869,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Déjà Vu,2006,PG-13,64038616,82267038,False,False,False,False,False,False,False,False,False,False,True,False,High,Medium
+Apocalypto,2006,R,50866635,64959548,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Primeval,2007,R,10597734,12985302,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Bridge to Terabithia,2007,PG,82234139,100760721,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Wild Hogs,2007,PG-13,168213584,206110533,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Meet the Robinsons,2007,G,97822171,119860589,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Lookout,2007,R,4600585,5637048,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Hoax,2007,R,7164995,8779196,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Invisible,2007,PG-13,20568319,25202168,False,False,False,False,False,False,False,False,False,False,True,False,Low,Low
+Pirates of the Caribbean: At World’…,2007,PG-13,309420425,379129960,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Ratatouille,2007,G,206445654,252955933,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Underdog,2007,PG,43760605,53619462,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+The Game Plan,2007,PG,90648202,111010758,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Dan in Real Life,2007,PG-13,47642963,58350234,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Enchanted,2007,PG,127706877,156074310,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+National Treasure 2: Book of Secrets,2007,PG,219961501,267003525,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Hannah Montana/Miley Cyrus: Best of B…,2008,G,65281781,76646993,False,False,False,False,True,False,False,False,False,False,False,False,High,Medium
+Step Up 2 the Streets,2008,PG-13,58017783,68118371,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+College Road Trip,2008,G,45610425,53550960,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+The Chronicles of Narnia: Prince Caspian,2008,PG,141621490,166277038,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+WALL-E,2008,G,223808164,262771918,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Swing Vote,2008,PG-13,16289867,19125841,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Goal! 2: Living the Dream...,2008,PG-13,225067,264247,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Miracle at St. Anna,2008,R,7916887,9295171,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Beverly Hills Chihuahua,2008,PG,94514402,110932022,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Morning Light,2008,PG,275093,322979,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+High School Musical 3: Senior Year,2008,G,90559416,106308538,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+Bolt,2008,PG,114053759,133702498,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Bedtime Stories,2008,PG,110101975,128039679,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+Confessions of a Shopaholic,2009,PG,44277350,49767744,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+Jonas Brothers: The 3D Concert Experi…,2009,G,38174685,38174685,False,False,False,False,True,False,False,False,False,False,False,False,Medium,Medium
+Race to Witch Mountain,2009,PG,67172594,75501997,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+Hannah Montana the Movie,2009,G,79576189,89443640,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+Earth,2009,G,32011576,35981010,False,False,False,False,False,True,False,False,False,False,False,False,Medium,Medium
+Up,2009,PG,293004164,329336681,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Proposal,2009,PG-13,163958031,184288829,False,False,False,False,False,False,False,False,False,True,False,False,High,High
+G-Force,2009,PG,119436770,134246932,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Gake no ue no Ponyo,2009,G,15090399,16961607,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+X Games 3D: The Movie,2009,PG,1391434,1563976,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Walt and El Grupo,2009,PG,20521,23064,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Surrogates,2009,PG-13,38577772,43361416,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Toy Story 3D Double Feature,2009,G,30702446,34509545,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Low
+Disney's A Christmas Carol,2009,PG,137855863,154927105,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+The Princess and the Frog,2009,G,104400899,116316457,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Old Dogs,2009,PG,49492060,55503929,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+When in Rome,2010,PG-13,32680633,34917330,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Low
+Alice in Wonderland,2010,PG,334191110,357063499,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Waking Sleeping Beauty,2010,PG,80741,86264,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+The Last Song,2010,PG,62950384,67258772,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Oceans,2010,G,19422319,20751600,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Prince of Persia: Sands of Time,2010,PG-13,90759676,96971361,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Toy Story 3,2010,G,415004880,443408255,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Sorcerer's Apprentice,2010,PG,63150991,67473105,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Step Up 3D,2010,PG-13,42400223,45302137,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Gedo Senki (Tales from Earthsea),2010,PG-13,48658,51988,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+You Again,2010,PG,25702053,27461121,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+Secretariat,2010,PG,59699513,63781920,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Tangled,2010,PG,200821936,214388548,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Tron: Legacy,2010,PG,172062763,183619259,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Gnomeo and Juliet,2011,G,99967670,106270797,False,False,False,True,False,False,False,False,False,False,False,False,High,High
+I am Number Four,2011,PG-13,55100437,58574607,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Mars Needs Moms,2011,PG,21392758,22741603,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+African Cats,2011,G,15428747,16401551,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Zokkomon,2011,PG,2815,2984,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+Prom,2011,PG,10130219,10768946,False,False,False,True,False,False,False,False,False,False,False,False,Low,Low
+Pirates of the Caribbean: On Stranger…,2011,PG-13,241063875,256263359,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Cars 2,2011,G,191450875,203522177,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Winnie the Pooh,2011,G,26692846,28375869,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Low
+The Help,2011,PG-13,169705587,180404976,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Fright Night,2011,R,18298649,19452402,False,False,False,False,False,False,False,True,False,False,False,False,Low,Low
+Real Steel,2011,PG-13,85463309,90848019,True,False,False,False,False,False,False,False,False,False,False,False,High,Medium
+The Muppets,2011,PG,88625922,94189503,False,False,False,True,False,False,False,False,False,False,False,False,High,Medium
+War Horse,2011,PG-13,79883359,84762149,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+The Secret World of Arietty,2012,G,19192510,20325733,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+John Carter,2012,PG-13,73058679,77372445,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+Chimpanzee,2012,G,28965459,30675725,False,False,False,False,False,True,False,False,False,False,False,False,Medium,Low
+The Avengers,2012,PG-13,623279547,660081224,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Brave,2012,PG,237282182,251292441,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+People Like Us,2012,PG-13,12431792,13165822,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+The Odd Life of Timothy Green,2012,PG,51853450,54914942,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Frankenweenie,2012,PG,35287788,37363513,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Wreck-It Ralph,2012,PG,189412677,200354959,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Lincoln,2012,PG-13,182207973,192122330,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Oz the Great and Powerful,2013,PG,234770996,243434130,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Iron Man 3,2013,PG-13,408992272,424084233,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Monsters University,2013,G,268488329,278395641,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Lone Ranger,2013,PG-13,89302115,92597388,False,False,False,False,False,False,False,False,False,False,False,True,High,Medium
+Disney Planes,2013,PG,90282580,93614037,False,False,False,True,False,False,False,False,False,False,False,False,High,Medium
+The Fifth Estate,2013,R,3254172,3374251,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Thor: The Dark World,2013,PG-13,206362140,213962184,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Kaze Tachinu,2013,PG-13,5201879,5367415,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Frozen,2013,PG,400738009,414997174,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Delivery Man,2013,PG-13,30659817,31787136,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Low
+Saving Mr. Banks,2013,PG-13,83299761,86249969,False,False,False,False,False,False,True,False,False,False,False,False,High,Medium
+Need for Speed,2014,PG-13,43568507,44955015,True,False,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Muppets Most Wanted,2014,PG,51178893,52807594,False,False,False,True,False,False,False,False,False,False,False,False,Medium,Medium
+Captain America: The Winter Soldier,2014,PG-13,259746958,268013076,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Bears,2014,G,17780194,18346024,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Million Dollar Arm,2014,PG,36447959,37607865,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Maleficent,2014,PG,241407328,249089809,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Planes: Fire and Rescue,2014,PG,59157732,61040349,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Guardians of the Galaxy,2014,PG-13,333172112,343771168,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Hundred-Foot Journey,2014,PG,54235441,55961409,False,False,False,False,False,False,False,False,False,True,False,False,Medium,Medium
+"Alexander and the Terrible, Horrible,…",2014,PG,66954149,69055550,False,False,False,True,False,False,False,False,False,False,False,False,High,Medium
+Big Hero 6,2014,PG,222527828,229249222,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Into the Woods,2014,PG,128002372,130894237,False,False,False,False,False,False,False,False,True,False,False,False,High,High
+Strange Magic,2015,PG,12429583,12429583,False,True,False,False,False,False,False,False,False,False,False,False,Low,Low
+"McFarland, USA",2015,PG,44480275,44480275,False,False,False,False,False,False,True,False,False,False,False,False,Medium,Medium
+Cinderella,2015,PG,201151353,201151353,False,False,False,False,False,False,True,False,False,False,False,False,High,High
+Monkey Kingdom,2015,G,16432322,16432322,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Avengers: Age of Ultron,2015,PG-13,459005868,459005868,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Tomorrowland,2015,PG,93436322,93436322,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+Inside Out,2015,PG,356461711,356461711,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Ant-Man,2015,PG-13,180202163,180202163,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Bridge of Spies,2015,PG-13,72313754,72313754,False,False,False,False,False,False,False,False,False,False,True,False,High,Medium
+The Good Dinosaur,2015,PG,123087120,123087120,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Star Wars Ep. VII: The Force Awakens,2015,PG-13,936662225,936662225,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Finest Hours,2016,PG,27569558,27569558,False,False,False,False,False,False,False,False,False,False,True,False,Medium,Low
+Zootopia,2016,PG,341268248,341268248,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The Jungle Book,2016,PG,364001123,364001123,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+A Beautiful Planet,2016,G,7895708,7895708,False,False,False,False,False,True,False,False,False,False,False,False,Low,Low
+Captain America: Civil War,2016,PG-13,408084349,408084349,True,False,False,False,False,False,False,False,False,False,False,False,High,High
+Alice Through the Looking Glass,2016,PG,77042381,77042381,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+Finding Dory,2016,PG,486295561,486295561,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+The BFG,2016,PG,55483770,55483770,False,True,False,False,False,False,False,False,False,False,False,False,Medium,Medium
+Pete’s Dragon,2016,PG,76233151,76233151,False,True,False,False,False,False,False,False,False,False,False,False,High,Medium
+The Light Between Oceans,2016,PG-13,12545979,12545979,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Queen of Katwe,2016,PG,8874389,8874389,False,False,False,False,False,False,True,False,False,False,False,False,Low,Low
+Doctor Strange,2016,PG-13,232532923,232532923,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Moana,2016,PG,246082029,246082029,False,True,False,False,False,False,False,False,False,False,False,False,High,High
+Rogue One: A Star Wars Story,2016,PG-13,529483936,529483936,False,True,False,False,False,False,False,False,False,False,False,False,High,High
